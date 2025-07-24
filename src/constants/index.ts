@@ -151,18 +151,20 @@ const experiences: TExperience[] = [
     ],
   },
   {
-    title: "IT Specialist",
+    title: "Expert Team IT",
     companyName: "Kementrian Pendidikan dan Kebudayaan RI",
     icon: kemendikbud,
     iconBg: "#E6DEDD",
-    date: "Jul 2022 - Jan 2023",
+    date: "Jul 2022 - Present",
     points: [
+      "Fixed their Asesment Website using HTML, CSS, Javascript and Nginx with team",
       "Quality Assurance for new website and App Kemendikbud (App Simulation Exam, Snbppp, and web helpdesk)",
       "Created best UI designs for the Seleksi Nasional Penerimaan Mahasiswa Baru website",
       "Provided helpdesk support for the Asesmen Nasional Berbasis Komputer website",
-      "Configuration database use Postgree, MySQL, and Server Linux Ubuntu",
       "Developed Asesmen Nasional Berbasis Komputer test questions",
-      "Monitored the Asesmen Nasional Berbasis Komputer network",
+      "Developed a mobile application “Tes Bakat Minat” for accessing exam questions and simulations using Tailwind CSS and Vue.js as the main tech stack.",
+      "Created detailed project timeline reports to support budget disbursement and ensure alignment with actual project progress",
+      "Responsible for inputting and managing exam content within the application and performing regular application maintenance to ensure system reliability",
     ],
   },
   {
@@ -264,7 +266,7 @@ const projects: TProject[] = [
       },
     ],
     image: msyncweb,
-    sourceCodeLink: "https://msync.univer.se/",
+    sourceCodeLink: "https://tech.msync.my.id/",
   },
   {
     name: "Creative Landing Page",
